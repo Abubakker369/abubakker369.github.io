@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # The Internet and Social Media In Health Arena
 
 ## Internet and social media's reflection in healthcare:
