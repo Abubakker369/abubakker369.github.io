@@ -20,7 +20,7 @@ The Medical Directors Forum is a social networking site for medical directors th
 
 ## Benefits of social media in the Healthcare Industry
 
-![Branching](./Assets/fig-2.jpg)
+![Branching](./Assets/fig-2.png)
  
 Having a web-based entertainment presence is critical in light of the fact that one supplier can arrive at relatives and companions of their representatives and patients. There are different expert motivations to utilize virtual entertainment, for example:
 1.	Patients Uses social media sites:
@@ -52,7 +52,7 @@ One more disadvantage of online entertainment in medical services is the absence
 4. Time consuming:
 Having an online entertainment presence isn't simple since it's a tedious undertaking. Regardless of whether you just utilize a couple of online entertainment accounts, you should deliver new satisfied constantly and make all the difference for the buzz. More channels eventually request additional time, yet your medical services experts are as of now extended far, particularly in this day and age. Additionally, the outcomes are not prompt. There are so many other medical care offices viewing for the hour of every client of online entertainment, so the battle of being the best never completely disappears.
 
-![Branching](./Assets/fig-4.jpg)
+![Branching](./Assets/fig-4.png)
  
 ## Conclusion: 
 The use of social media sites and platforms can promote personal and public health, as well as professional growth, when used wisely and carefully. However, when not used with caution, these technologies can pose significant risks to healthcare providers Health care organizations and professional societies have issued guidelines to provide practical and useful principles for healthcare providers to follow to avoid potential dangers.
